@@ -16,6 +16,8 @@ $ python -m venv [nama-folder]
 $ cd [nama-folder]
 $ cd Scripts
 $ activate
+$ cd ..
+$ git clone 
 $ pip install -r requirements.txt
 $ uvicorn main:app --reload
 ```
